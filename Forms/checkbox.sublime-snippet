@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<label for="${1:item}" class="pure-checkbox">
+	<input id="${1:item}" type="checkbox" value="${2}" />
+	${3:Checkbox}
+</label>
+]]></content>
+	<tabTrigger>pure-checkbox</tabTrigger>
+	<description>Pure checkbox</description>
+	<scope>text.html</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<input type="${1:submit}" class="pure-button pure-button-disabled" value="${2:Submit}" />
+]]></content>
+	<tabTrigger>pure-button-disabled:input</tabTrigger>
+	<description>Pure disabled input button</description>
+	<scope>text.html</scope>
+</snippet>

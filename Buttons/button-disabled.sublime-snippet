@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<button class="pure-button pure-button-disabled">${1:Disabled Button}</button>
+]]></content>
+	<tabTrigger>pure-button-disabled</tabTrigger>
+	<description>Pure disabled button</description>
+	<scope>text.html</scope>
+</snippet>

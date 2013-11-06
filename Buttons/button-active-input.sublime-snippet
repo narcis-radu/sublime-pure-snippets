@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<input type="${1:submit}" class="pure-button pure-button-active" value="${2:Submit}" />
+]]></content>
+	<tabTrigger>pure-button-active:input</tabTrigger>
+	<description>Pure active input button</description>
+	<scope>text.html</scope>
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<label for="${1:item}" class="pure-radio">
+	<input id="${1:item}" type="radio" name="${2:radioGroup}" value="${3}" />
+	${4:Radio}
+</label>
+]]></content>
+	<tabTrigger>pure-radio</tabTrigger>
+	<description>Pure radio</description>
+	<scope>text.html</scope>
+</snippet>

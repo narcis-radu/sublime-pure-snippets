@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<form class="pure-form">
+	<fieldset class="pure-group">
+		${0}
+	</fieldset>
+</form>
+]]></content>
+	<tabTrigger>pure-form-group</tabTrigger>
+	<description>Pure grouped inputs forms</description>
+	<scope>text.html</scope>
+</snippet>

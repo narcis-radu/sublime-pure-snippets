@@ -1,0 +1,32 @@
+<snippet>
+	<content><![CDATA[
+<table class="pure-table pure-table-horizontal">
+	<thead>
+		<tr>
+			<th>${1:Column}</th>
+			<th>${2:Column}</th>
+			<th>${3:Column}</th>
+			<th>${4:Column}</th>
+		</tr>
+	</thead>
+
+	<tbody>
+		<tr>
+			<td>${5:Item}</td>
+			<td>${6:Item}</td>
+			<td>${7:Item}</td>
+			<td>${8:Item}</td>
+		</tr>
+		<tr>
+			<td>${9:Item}</td>
+			<td>${10:Item}</td>
+			<td>${11:Item}</td>
+			<td>${12:Item}</td>
+		</tr>		
+	</tbody>
+</table>
+]]></content>
+	<tabTrigger>pure-table-horizontal</tabTrigger>
+	<description>Pure horizontal bordered table</description>
+	<scope>text.html</scope>
+</snippet>

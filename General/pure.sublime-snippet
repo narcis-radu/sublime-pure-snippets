@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<link rel="stylesheet" href="http://yui.yahooapis.com/pure/${1:0.3.0}/pure-min.css">
+]]></content>
+	<tabTrigger>pure-css</tabTrigger>
+	<description>Pure CSS loader</description>
+	<scope>text.html</scope>
+</snippet>

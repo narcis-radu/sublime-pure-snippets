@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<div class="pure-controls">
+	${0}
+</div>
+]]></content>
+	<tabTrigger>pure-controls</tabTrigger>
+	<description>Pure controls for aligned forms</description>
+	<scope>text.html</scope>
+</snippet>

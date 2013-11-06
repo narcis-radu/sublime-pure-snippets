@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<button class="pure-button pure-button-primary">${1:Primary Button}</button>
+]]></content>
+	<tabTrigger>pure-button-primary</tabTrigger>
+	<description>Pure primary button</description>
+	<scope>text.html</scope>
+</snippet>

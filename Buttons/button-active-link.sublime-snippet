@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<a href="${1:#}" class="pure-button pure-button-active">${2:Active Link}</a>
+]]></content>
+	<tabTrigger>pure-button-active:a</tabTrigger>
+	<description>Pure active link button</description>
+	<scope>text.html</scope>
+</snippet>

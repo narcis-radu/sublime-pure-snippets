@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<form class="pure-form">
+	<fieldset>
+		${0}
+	</fieldset>
+</form>
+]]></content>
+	<tabTrigger>pure-form</tabTrigger>
+	<description>Pure inline form</description>
+	<scope>text.html</scope>
+</snippet>

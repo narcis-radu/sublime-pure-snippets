@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<a href="${1:#}" class="pure-button pure-button-disabled">${2:Disabled Link}</a>
+]]></content>
+	<tabTrigger>pure-button-disabled:a</tabTrigger>
+	<description>Pure disabled link button</description>
+	<scope>text.html</scope>
+</snippet>

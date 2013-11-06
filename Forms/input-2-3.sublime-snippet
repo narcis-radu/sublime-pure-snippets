@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<input type="text" class="pure-input-2-3" />
+]]></content>
+	<tabTrigger>pure-input-2-3</tabTrigger>
+	<description>Pure text input 2-3</description>
+	<scope>text.html</scope>
+</snippet>

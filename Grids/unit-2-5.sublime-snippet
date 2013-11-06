@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<div class="pure-u-2-5">
+	${0}
+</div>
+]]></content>
+	<tabTrigger>pure-u-2-5</tabTrigger>
+	<description>Pure unit class 2/5</description>
+	<scope>text.html</scope>
+</snippet>

@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<form class="pure-form pure-form-stacked">
+	<fieldset>
+		${0}
+	</fieldset>
+</form>
+]]></content>
+	<tabTrigger>pure-form-stacked</tabTrigger>
+	<description>Pure stacked form</description>
+	<scope>text.html</scope>
+</snippet>

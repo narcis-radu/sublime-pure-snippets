@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<form class="pure-form pure-form-aligned">
+	<fieldset>
+		${0}
+	</fieldset>
+</form>
+]]></content>
+	<tabTrigger>pure-form-aligned</tabTrigger>
+	<description>Pure aligned form</description>
+	<scope>text.html</scope>
+</snippet>

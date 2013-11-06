@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<div class="pure-g-r">
+	${0}
+</div>
+]]></content>
+	<tabTrigger>pure-g-r</tabTrigger>
+	<description>Pure responsive grid class</description>
+	<scope>text.html</scope>
+</snippet>

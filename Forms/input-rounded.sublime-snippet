@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<input type="text" class="pure-input-rounded" />
+]]></content>
+	<tabTrigger>pure-input-rounded</tabTrigger>
+	<description>Pure rounded inputs</description>
+	<scope>text.html</scope>
+</snippet>

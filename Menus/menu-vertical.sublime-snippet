@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+<div class="pure-menu pure-menu-open">
+	<ul>
+		<li><a href="${1:#}">${2:Link}</a></li>
+		<li><a href="${3:#}">${4:Link}</a></li>
+		<li><a href="${5:#}">${6:Link}</a></li>
+		<li><a href="${7:#}">${8:Link}</a></li>
+		<li><a href="${9:#}">${10:Link}</a></li>
+	</ul>
+</div>
+]]></content>
+	<tabTrigger>pure-menu-vertical</tabTrigger>
+	<description>Pure vertical menu</description>
+	<scope>text.html</scope>
+</snippet>

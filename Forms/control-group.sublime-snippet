@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<div class="pure-control-group">
+	<label for="${1:item}">${2:Item}</label>
+	<input type="text" name="${1:item}" />
+</div>
+]]></content>
+	<tabTrigger>pure-control-group</tabTrigger>
+	<description>Pure control group for aligned forms</description>
+	<scope>text.html</scope>
+</snippet>
