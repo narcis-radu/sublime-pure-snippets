@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<aside class="pure-form-message-inline">${0}</aside>
+]]></content>
+	<tabTrigger>pure-form-message-inline</tabTrigger>
+	<description>Pure form inline message</description>
+	<scope>text.html</scope>
+</snippet>
